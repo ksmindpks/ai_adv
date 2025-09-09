@@ -1,0 +1,28 @@
+자료
+\\192.168.0.14
+
+Visual Studio code 설치 경로: C:\Users\602-01\AppData\Local\Programs\Microsoft VS Code
+
+python.exe (아나콘다) 설치 위치: C:\Users\602-01\anaconda3
+
+가상환경 패키지 경로: C:\Users\602-01\anaconda3\envs\virtualEnv
+
+가상환경(base) 경로: C:\Users\602-01\anaconda3\Lib\site-packages\numpy
+
+GPU : NVIDIA GeForce GTX 1060 3GB
+
+github: ksparkp@gmail.com
+
+시간표 및 교안
+https://docs.google.com/spreadsheets/d/1Uxni0saqgCyBS-Tnb0jtW2RMu6xAISbm3LiGtI4V5EQ/edit?gid=0#gid=0
+
+Notion, Discord
+
+컴퓨터공부: https://docs.google.com/spreadsheets/d/1VycxDKxdfCSXc6ND9b1JKXgK1GTrEUeHD-mqC4DXN9U/edit?gid=1068001679#gid=1068001679
+
+파이썬 교안
+https://docs.google.com/presentation/d/1g-nz-cU0mUEExgPDo9w5JWxgsXqFgfDcYa6tUL_3MDo/edit?slide=id.g28749d250f8_5_62#slide=id.g28749d250f8_5_62
+
+5시10분 ~ 6시 개인별 학습 설정 및 상담
+
+5시 50분 운영진 공지
